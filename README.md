@@ -2,7 +2,8 @@
 React + Vite + TypeScript + Tailwind (v4) · ข้อมูลเก็บใน `data/db.json`
 
     npm install
-    npm run dev
+    npm run dev          # พัฒนา
+    npm run build && npm start   # production (เสิร์ฟ dist + API ที่พอร์ต 3000, เปลี่ยนด้วย PORT=8080)
 
 ข้อมูลทั้งหมดอ่าน/เขียนผ่าน middleware ใน `vite.config.ts` (`/api/db`) ลงไฟล์ `data/db.json` โดยตรง
 (ใช้ได้กับ `npm run dev` และ `npm run preview`) หากต้อง deploy จริงควรย้ายไปใช้ backend/ฐานข้อมูล
@@ -25,3 +26,5 @@ React + Vite + TypeScript + Tailwind (v4) · ข้อมูลเก็บใ�
 ## จำหน่ายออก
 เมนู "จำหน่ายออก" เปลี่ยนสถานะเป็น `retired` พร้อมบันทึกเหตุผลในประวัติ (ไม่ลบข้อมูล) เฉพาะเครื่องที่ "พร้อมใช้งาน" หรือ "ส่งซ่อม" เท่านั้น
 เครื่องที่จำหน่ายออกแล้วไม่ถูกนับในมูลค่ารวมและการแจ้งเตือนประกัน
+
+> ต้องใช้ `npm start` (server.mjs) หรือ `npm run preview` เท่านั้น การโฮสต์โฟลเดอร์ `dist` เป็นไฟล์ static อย่างเดียว (เช่น Nginx/`serve`/GitHub Pages) จะไม่มี API จึง login ไม่ได้

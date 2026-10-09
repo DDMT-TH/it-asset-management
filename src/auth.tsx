@@ -32,12 +32,16 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, [])
 
   const login: Auth['login'] = async (username, password) => {
-    const r = await fetch('/api/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ username, password }) })
-    const data = await r.json()
-    if (!r.ok) return data.error ?? 'เข้าสู่ระบบไม่สำเร็จ'
-    localStorage.setItem(KEY, data.token)
-    setToken(data.token); setUser(data.user)
-    return null
+    try {
+      const r = await fetch('/api/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ username, password }) })
+      const data = await r.json()
+      if (!r.ok) return data.error ?? 'เข้าสู่ระบบไม่สำเร็จ'
+      localStorage.setItem(KEY, data.token)
+      setToken(data.token); setUser(data.user)
+      return null
+    } catch {
+      return 'เชื่อมต่อ API ไม่ได้ — ต้องรันด้วย npm start (หรือ npm run dev) ไม่ใช่เปิดไฟล์ใน dist โดยตรง'
+    }
   }
 
   const logout = () => {
