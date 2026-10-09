@@ -5,6 +5,7 @@ import type { Asset, AssetStatus, DB, HistoryEntry, HistoryType } from './types'
 interface Store {
   db: DB
   loading: boolean
+  error: string
   addAsset: (a: Omit<Asset, 'id' | 'status'>) => string | null
   updateAsset: (id: string, data: Omit<Asset, 'id' | 'status' | 'holder'>) => string | null
   addAssets: (list: Omit<Asset, 'id' | 'status'>[]) => void
@@ -20,26 +21,36 @@ export const useStore = () => useContext(Ctx)
 const uid = () => Math.random().toString(36).slice(2, 10)
 const today = () => new Date().toISOString().slice(0, 10)
 
-async function save(db: DB, token: string, onDenied: () => void) {
-  const r = await fetch('/api/db', { method: 'PUT', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` }, body: JSON.stringify(db) })
-  if (r.status === 401) onDenied()
+async function save(db: DB, token: string, onDenied: () => void, onError: (m: string) => void) {
+  try {
+    const r = await fetch('/api/db', { method: 'PUT', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` }, body: JSON.stringify(db) })
+    if (r.status === 401) return onDenied()
+    if (!r.ok) onError(((await r.json().catch(() => ({}))) as { error?: string }).error ?? 'บันทึกข้อมูลไม่สำเร็จ')
+  } catch {
+    onError('เชื่อมต่อเซิร์ฟเวอร์ไม่ได้ ข้อมูลล่าสุดอาจยังไม่ถูกบันทึก')
+  }
 }
 
 export function StoreProvider({ children }: { children: ReactNode }) {
   const { token, logout } = useAuth()
   const [db, setDb] = useState<DB>({ assets: [], history: [] })
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState('')
 
   useEffect(() => {
     fetch('/api/db', { headers: { Authorization: `Bearer ${token}` } })
-      .then((r) => (r.ok ? r.json() : Promise.reject()))
+      .then(async (r) => {
+        if (r.status === 401) throw 'auth'
+        if (!r.ok) throw ((await r.json().catch(() => ({}))) as { error?: string }).error ?? 'โหลดข้อมูลไม่สำเร็จ'
+        return r.json()
+      })
       .then(setDb)
-      .catch(logout)
+      .catch((e) => (e === 'auth' ? logout() : setError(typeof e === 'string' ? e : 'เชื่อมต่อเซิร์ฟเวอร์ไม่ได้')))
       .finally(() => setLoading(false))
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [token])
 
-  const commit = (next: DB) => { setDb(next); save(next, token, logout) }
+  const commit = (next: DB) => { setError(''); setDb(next); save(next, token, logout, setError) }
 
   // เปลี่ยนสถานะ asset พร้อมบันทึกประวัติในครั้งเดียว
   const change = (assetId: string, status: AssetStatus, type: HistoryType, person?: string, note?: string) => {
@@ -81,7 +92,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   }
 
   const value: Store = {
-    db, loading, addAsset, addAssets, updateAsset,
+    db, loading, error, addAsset, addAssets, updateAsset,
     handover: (id, person, note) => change(id, 'in_use', 'handover', person, note),
     returnAsset: (id, note) => change(id, 'available', 'return', db.assets.find((a) => a.id === id)?.holder, note),
     sendRepair: (id, note) => change(id, 'repair', 'repair_send', undefined, note),

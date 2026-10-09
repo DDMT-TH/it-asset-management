@@ -21,7 +21,7 @@ const NAV = [
 ]
 
 function Shell() {
-  const { loading } = useStore()
+  const { loading, error } = useStore()
   const { user, logout } = useAuth()
   return (
     <div className="flex min-h-screen flex-col md:flex-row">
@@ -42,6 +42,7 @@ function Shell() {
         </div>
       </aside>
       <main className="min-w-0 flex-1 p-5 md:p-8">
+        {error && <p role="alert" className="mb-4 rounded-md bg-red-50 px-3 py-2 text-sm text-red-700">{error}</p>}
         {loading ? <p>กำลังโหลดข้อมูล…</p> : (
           <Routes>
             <Route path="/" element={<Dashboard />} />

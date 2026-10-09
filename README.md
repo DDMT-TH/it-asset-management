@@ -28,3 +28,19 @@ React + Vite + TypeScript + Tailwind (v4) · ข้อมูลเก็บใ�
 เครื่องที่จำหน่ายออกแล้วไม่ถูกนับในมูลค่ารวมและการแจ้งเตือนประกัน
 
 > ต้องใช้ `npm start` (server.mjs) หรือ `npm run preview` เท่านั้น การโฮสต์โฟลเดอร์ `dist` เป็นไฟล์ static อย่างเดียว (เช่น Nginx/`serve`/GitHub Pages) จะไม่มี API จึง login ไม่ได้
+
+## Deploy บน Vercel
+Vercel เขียนไฟล์ถาวรไม่ได้และไม่มีหน่วยความจำร่วมระหว่างคำขอ จึงปรับดังนี้:
+- ข้อมูลเก็บเป็นเอกสาร JSON เดียว (key `itam:db`) ใน **Upstash Redis** — ครั้งแรกจะนำข้อมูลเริ่มต้นจาก `data/db.json` ไปใส่ให้
+- Login ใช้ token เซ็นลายเซ็น (HMAC) ไม่ต้องเก็บ session ฝั่งเซิร์ฟเวอร์ → ตั้ง `AUTH_SECRET`
+- API อยู่ใน `api/*.mjs` (Vercel Functions) ใช้โค้ดแกนกลางเดียวกับ local (`server/core.mjs`)
+
+ขั้นตอน
+1. push โปรเจกต์ขึ้น Git แล้ว Import เข้า Vercel (Framework: Vite — ค่าอยู่ใน `vercel.json` แล้ว)
+2. Project → **Storage** → Create Database → **Upstash Redis** → เชื่อมกับโปรเจกต์ (env `KV_REST_API_URL/TOKEN` ถูกใส่ให้เอง)
+3. Settings → Environment Variables → เพิ่ม `AUTH_SECRET` (สุ่มข้อความยาว เช่น `openssl rand -hex 32`)
+4. (แนะนำ) เปลี่ยนรหัสผ่านตัวอย่าง: `node scripts/add-user.mjs admin <รหัสใหม่> "ผู้ดูแลระบบ" admin`
+   แล้วใส่ผู้ใช้ผ่าน env `USERS_JSON` (เนื้อหาเดียวกับ `data/users.json`) แทนการ commit ไฟล์ผู้ใช้ — ดู `.env.example`
+5. Redeploy
+
+ข้อจำกัด: บันทึกแบบทับทั้งเอกสาร (last-write-wins) ถ้าหลายคนบันทึกพร้อมกันอาจทับกันได้ · ออกจากระบบคือลบ token ฝั่ง client (token ยังใช้ได้จนครบ 8 ชม. ถ้าถูกคัดลอกไป)
