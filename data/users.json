@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "name": "ผู้ดูแลระบบ",
+    "role": "admin",
+    "password": "7785cac53eb29c60077b90b24f8ec60b:c50f929642e9bb33a63fbc1c493408d13129c32c030dc779ed925f3ae23391839cf5c724a535611ebb386cb523ca6443f227fea2137975b683ec97b14eb9cb44"
+  },
+  {
+    "username": "staff",
+    "name": "เจ้าหน้าที่ IT",
+    "role": "staff",
+    "password": "7988de66174cbd50806a9b9a75445007:9b4c8ece9360c93b241785749d2f5a17c879c00cbeb05bf0ae65458e0d7c7e13a16197b1084a75b32b5c6f4d75ee07938c5202a4fb2f9bbbcdbcf460f07ea941"
+  }
+]

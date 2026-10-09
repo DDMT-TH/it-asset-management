@@ -1,0 +1,3112 @@
+{
+  "assets": [
+    {
+      "id": "a1",
+      "tag": "NB-0001",
+      "name": "Dell Latitude 5440",
+      "category": "Notebook",
+      "brand": "Dell",
+      "serial": "DL5440X01",
+      "purchaseDate": "2025-03-10",
+      "status": "in_use",
+      "holder": "สมชาย ใจดี",
+      "price": 32500,
+      "warrantyExpiry": "2026-11-10"
+    },
+    {
+      "id": "a2",
+      "tag": "MN-0001",
+      "name": "LG 24 นิ้ว 24MP60",
+      "category": "Monitor",
+      "brand": "LG",
+      "serial": "LG24M001",
+      "purchaseDate": "2025-03-10",
+      "status": "available",
+      "price": 4500,
+      "warrantyExpiry": "2027-11-12"
+    },
+    {
+      "tag": "CO-20230311-001",
+      "name": "ASUS X1503ZA-MA522WS",
+      "category": "LAPTOP",
+      "brand": "ASUS",
+      "serial": "N7N0CV19E331307",
+      "purchaseDate": "2023-03-11",
+      "price": 23355.14,
+      "warrantyExpiry": "2024-01-01",
+      "id": "4ng69r80",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20230327-002",
+      "name": "Computer & Device Lenovo Tarn",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "-",
+      "purchaseDate": "2023-03-27",
+      "price": 28962.62,
+      "warrantyExpiry": "2026-07-16",
+      "id": "sp9ts4vm",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20230607-003",
+      "name": "DELL Latitude 3430",
+      "category": "LAPTOP",
+      "brand": "DELL",
+      "serial": "DZ7WCS3",
+      "purchaseDate": "2023-06-07",
+      "price": 32500,
+      "warrantyExpiry": "2024-01-01",
+      "id": "4tn9ch8x",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20230610-004",
+      "name": "Apple Ipad + Device",
+      "category": "TABLET",
+      "brand": "APPLE",
+      "serial": "-",
+      "purchaseDate": "2023-06-10",
+      "price": 30067.29,
+      "warrantyExpiry": "2024-06-10",
+      "id": "f5quf5tv",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20231102-005",
+      "name": "LENOVO ThinkBook 14 G5+ IRH",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "YX072WPZ",
+      "purchaseDate": "2023-11-02",
+      "price": 32630.83,
+      "warrantyExpiry": "2024-01-01",
+      "id": "dyjc7g0o",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240110-006",
+      "name": "LENOVO IdeaPad Slim 3 15AMN8 - Type 82XQ",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF4RKTK8",
+      "purchaseDate": "2024-01-10",
+      "price": 18214.95,
+      "warrantyExpiry": "2025-01-01",
+      "id": "it8hp6de",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240110-007",
+      "name": "LENOVO IdeaCentre 3 07IRB8 - Type 90VT",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "YLT0KJYZ",
+      "purchaseDate": "2024-01-10",
+      "price": 19570.09,
+      "warrantyExpiry": "2027-01-08",
+      "id": "0zo68yxr",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240110-008",
+      "name": "LENOVO IdeaCentre 3 07IRB8 - Type 90VT",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "YLT0KJXH",
+      "purchaseDate": "2024-01-10",
+      "price": 19570.09,
+      "warrantyExpiry": "2027-01-08",
+      "id": "oap1u8w9",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240110-009",
+      "name": "DELL Vostro 14 3430",
+      "category": "LAPTOP",
+      "brand": "DELL",
+      "serial": "FQ4Z3Y3",
+      "purchaseDate": "2024-01-10",
+      "price": 24289.72,
+      "warrantyExpiry": "2025-01-01",
+      "id": "8izg3wgs",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240216-010",
+      "name": "Notebook Lenovo IPS3-15IAH8",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "-",
+      "purchaseDate": "2026-09-04",
+      "price": 17747.66,
+      "warrantyExpiry": "2026-09-04",
+      "id": "oa4v1qi2",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240328-011",
+      "name": "Notebook ACER Aspire lite AL15-51M-5318/15-1155G7 Gray2-Y",
+      "category": "LAPTOP",
+      "brand": "ACER",
+      "serial": "NXKS5ST00434601B110X15",
+      "purchaseDate": "2024-02-16",
+      "price": 14009.35,
+      "warrantyExpiry": "2025-01-01",
+      "id": "aipyavey",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240405-012",
+      "name": "Computer Acer Aspire + Monitor",
+      "category": "DESKTOP",
+      "brand": "ACER",
+      "serial": "DTBK6ST005404015399600",
+      "purchaseDate": "2024-04-05",
+      "price": 20411.21,
+      "warrantyExpiry": "2027-03-21",
+      "id": "49xserip",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240405-013",
+      "name": "Computer Acer Aspire + Monitor",
+      "category": "DESKTOP",
+      "brand": "ACER",
+      "serial": "DTBK6ST0054040153B9600",
+      "purchaseDate": "2024-04-05",
+      "price": 20411.21,
+      "warrantyExpiry": "2027-03-21",
+      "id": "0notlehg",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240525-014",
+      "name": "LENOVO IdeaPad Slim 3 15IAH8 - Type 83ER",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF4JLP47",
+      "purchaseDate": "2024-05-25",
+      "price": 15878.5,
+      "warrantyExpiry": "2027-01-09",
+      "id": "xkctxwpf",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-015",
+      "name": "LENOVO E14 Gen 5 (Type 21JK, 21JL) Laptops (ThinkPad) - Type 21JK",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55BCS8",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2027-08-19",
+      "id": "79eark4v",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-016",
+      "name": "LENOVO E14 Gen 5 (Type 21JK, 21JL) Laptops (ThinkPad) - Type 21JK",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55BAFR",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2027-08-19",
+      "id": "j6fete0d",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-017",
+      "name": "Notebook LENOVO ThinkPad E14 Gen5 intel core i5-13420H",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55B9RH",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2025-08-20",
+      "id": "p7gv0ly6",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-018",
+      "name": "LENOVO E14 Gen 5 (Type 21JK, 21JL) Laptops (ThinkPad) - Type 21JK",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55BAGG",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2027-08-19",
+      "id": "68v37dal",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-019",
+      "name": "LENOVO E14 Gen 5 (Type 21JK, 21JL) Laptops (ThinkPad) - Type 21JK",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55D7KP",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2027-08-19",
+      "id": "718yqvq4",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-020",
+      "name": "LENOVO E14 Gen 5 (Type 21JK, 21JL) Laptops (ThinkPad) - Type 21JK",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55B3P6",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2027-08-19",
+      "id": "l3sodm4p",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-021",
+      "name": "LENOVO E14 Gen 5 (Type 21JK, 21JL) Laptops (ThinkPad) - Type 21JK",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55D9T7",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2027-08-19",
+      "id": "cevgcr48",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-022",
+      "name": "LENOVO E14 Gen 5 (Type 21JK, 21JL) Laptops (ThinkPad) - Type 21JK",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55BCTG",
+      "purchaseDate": "2024-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2027-08-19",
+      "id": "p4rw8qns",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-023",
+      "name": "LENOVO Lenovo V15 G4 IRU - Type 83A1",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF55B7GD",
+      "purchaseDate": "2026-08-20",
+      "price": 28900,
+      "warrantyExpiry": "2026-09-18",
+      "id": "0j22di97",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-024",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LJZFQ",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "siciq1dt",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-025",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LTBG7",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "d0usi7dh",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-026",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LJZAK",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "wzhnzynr",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-027",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT3TL",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "bxuohfjx",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-028",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT3T6",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "kro64kww",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-029",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LTBDP",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "nao1gshu",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-030",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT3TW",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "pi8kdt4r",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-031",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LTBG0",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "8i05bld7",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-032",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT3TW",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "oojzj85i",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-033",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LJZFN",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "2alldw8x",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-034",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LJZFG",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "yo7els7j",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240820-035",
+      "name": "LENOVO Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB + Lenovo Monitor",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT3TE",
+      "purchaseDate": "2024-08-20",
+      "price": 20950,
+      "warrantyExpiry": "2027-08-19",
+      "id": "m5czijto",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241125-036",
+      "name": "Lenovo IdeaCentre Tower 14IRR9 - Type 90X2 + Monitor No.1",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0ME7CA",
+      "purchaseDate": "2024-11-25",
+      "price": 23495.33,
+      "warrantyExpiry": "2027-11-25",
+      "id": "3m6l5q0r",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241125-037",
+      "name": "Lenovo IdeaCentre Tower 14IRR9 - Type 90X2 + Monitor No.2",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0ME7D2",
+      "purchaseDate": "2024-11-25",
+      "price": 23495.33,
+      "warrantyExpiry": "2027-11-25",
+      "id": "j4e3cuci",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241125-038",
+      "name": "Lenovo IdeaCentre Tower 14IRR9 - Type 90X2 + Monitor No.3",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0ME7DE",
+      "purchaseDate": "2024-11-25",
+      "price": 23495.33,
+      "warrantyExpiry": "2027-11-25",
+      "id": "18e086hg",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241126-039",
+      "name": "Lenovo IdeaCentre Tower 14IRR9 - Type 90X2 + Monitor No.4",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0M9XL5",
+      "purchaseDate": "2024-11-26",
+      "price": 23495.33,
+      "warrantyExpiry": "2027-11-25",
+      "id": "v57eec4h",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241126-040",
+      "name": "LenovoIdeaPad Slim 3 15IRH8 - Type 83EM + Office H&S 2-Y",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF53XL6A",
+      "purchaseDate": "2024-11-26",
+      "price": 21485.98,
+      "warrantyExpiry": "2026-11-28",
+      "id": "1l3z6kp4",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241210-041",
+      "name": "Lenovo Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT442",
+      "purchaseDate": "2024-12-10",
+      "price": 25250,
+      "warrantyExpiry": "2027-12-09",
+      "id": "p81ev3mm",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241210-042",
+      "name": "Lenovo Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT440",
+      "purchaseDate": "2024-12-10",
+      "price": 25250,
+      "warrantyExpiry": "2027-12-09",
+      "id": "6963u1p9",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241210-043",
+      "name": "Lenovo Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT414",
+      "purchaseDate": "2024-12-10",
+      "price": 25250,
+      "warrantyExpiry": "2027-12-09",
+      "id": "md2guzgr",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241210-044",
+      "name": "Lenovo Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT412",
+      "purchaseDate": "2024-12-10",
+      "price": 25250,
+      "warrantyExpiry": "2027-12-09",
+      "id": "z2k0zrdp",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20241210-045",
+      "name": "Lenovo Neo 50t Gen 4 Desktop (ThinkCentre) - Type 12JB",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0LT411",
+      "purchaseDate": "2024-12-10",
+      "price": 25250,
+      "warrantyExpiry": "2027-12-09",
+      "id": "2rsfnqfl",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250317-052",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2ASAYM",
+      "purchaseDate": "2025-03-17",
+      "price": 23300,
+      "warrantyExpiry": "2028-03-15",
+      "id": "prwvi75m",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250317-053",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2A55XA",
+      "purchaseDate": "2025-03-17",
+      "price": 23300,
+      "warrantyExpiry": "2028-03-15",
+      "id": "lx99ug17",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250416-054",
+      "name": "Lenovo Neo 50t Gen 5 Desktop (ThinkCentre) - Type 12UB",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0TB5DT",
+      "purchaseDate": "2025-04-16",
+      "price": 26400,
+      "warrantyExpiry": "2028-04-14",
+      "id": "5fmxb5k8",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250416-055",
+      "name": "Lenovo Neo 50t Gen 5 Desktop (ThinkCentre) - Type 12UB",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "GM0TB5EY",
+      "purchaseDate": "2025-04-16",
+      "price": 26400,
+      "warrantyExpiry": "2028-04-14",
+      "id": "cn70kul2",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250416-056",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2ASAZ1",
+      "purchaseDate": "2025-04-16",
+      "price": 23300,
+      "warrantyExpiry": "2028-04-14",
+      "id": "qpx7dxxf",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250514-057",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2ASAX3",
+      "purchaseDate": "2025-05-14",
+      "price": 23300,
+      "warrantyExpiry": "2028-04-14",
+      "id": "d84skw78",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250514-058",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2G9F03",
+      "purchaseDate": "2025-05-14",
+      "price": 23300,
+      "warrantyExpiry": "2028-05-13",
+      "id": "a92dnujl",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250514-059",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2G9EZW",
+      "purchaseDate": "2025-05-14",
+      "price": 23300,
+      "warrantyExpiry": "2028-05-13",
+      "id": "wg9gxqyf",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250514-060",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2G9F0M",
+      "purchaseDate": "2025-05-14",
+      "price": 23300,
+      "warrantyExpiry": "2028-05-13",
+      "id": "21ttg9hp",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250514-061",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2G9F06",
+      "purchaseDate": "2025-05-14",
+      "price": 23300,
+      "warrantyExpiry": "2028-05-13",
+      "id": "w3fnchpb",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250514-062",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2G9F07",
+      "purchaseDate": "2025-05-14",
+      "price": 23300,
+      "warrantyExpiry": "2028-05-13",
+      "id": "ms6lbwo5",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20250514-063",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2G9F0N",
+      "purchaseDate": "2025-05-14",
+      "price": 23300,
+      "warrantyExpiry": "2028-05-13",
+      "id": "wx95fpv5",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20251022-064",
+      "name": "LENOVO E14 Gen 7 (Type 21T9, 21TA) Laptops (ThinkPad) - Type 21T9",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF5QW72H",
+      "purchaseDate": "2025-10-22",
+      "price": 26500,
+      "warrantyExpiry": "2028-10-21",
+      "id": "i8spep0f",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20251022-065",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2ZBQ2E",
+      "purchaseDate": "2025-10-22",
+      "price": 23300,
+      "warrantyExpiry": "2028-10-21",
+      "id": "0f60y9m6",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260119-067",
+      "name": "LENOVO E16 Gen 3 (Type 21TF, 21TG) Laptops (ThinkPad) - Type 21TF",
+      "category": "LAPTOP",
+      "brand": "LENOVO",
+      "serial": "PF5ZFKAD",
+      "purchaseDate": "2026-01-19",
+      "price": 28900,
+      "warrantyExpiry": "2029-01-18",
+      "id": "re4he8lu",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260119-068",
+      "name": "ASUS B3405CCA-LY1878X",
+      "category": "LAPTOP",
+      "brand": "ASUS",
+      "serial": "T9NXLP03D974378",
+      "purchaseDate": "2026-01-19",
+      "price": 28000,
+      "warrantyExpiry": "2029-04-01",
+      "id": "eleutfoq",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260119-069",
+      "name": "Lenovo Neo 50a 24 Gen 5 Desktop (ThinkCentre) - Type 12SD",
+      "category": "DESKTOP",
+      "brand": "LENOVO",
+      "serial": "MP2ZPQDJ",
+      "purchaseDate": "2026-01-19",
+      "price": 24300,
+      "warrantyExpiry": "2029-04-01",
+      "id": "u2lq9azg",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-444",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "2ye6eu08",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-445",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "b0i49007",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-446",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "mms6uebt",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-447",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "q0qvq4ze",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-448",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "bui3axvb",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-449",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "aejvov8q",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-450",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "bup3ield",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-451",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "0sk4fy66",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-452",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "o9leayu6",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-453",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "71d9yu7u",
+      "status": "available"
+    },
+    {
+      "tag": "EQ-20260630-454",
+      "name": "Hikvision 2MP Smart Hybrid Light Fixed Turret Network Camera",
+      "category": "CAMERA",
+      "brand": "Hikvision",
+      "serial": "-",
+      "purchaseDate": "2026-06-30",
+      "price": 9727.27,
+      "warrantyExpiry": "2029-06-30",
+      "id": "sblkq94c",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240314-046",
+      "name": "SEAGATE EXNOS 7E10 IntHDD 3.5 nich 10TB 512/4KN 7200 No. 1/6",
+      "category": "ACCESSORIES",
+      "brand": "SEAGATE",
+      "serial": "-",
+      "purchaseDate": "2024-03-14",
+      "price": 11200,
+      "warrantyExpiry": "2456-06-30",
+      "id": "zq04994f",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240314-047",
+      "name": "SEAGATE EXNOS 7E10 IntHDD 3.5 nich 10TB 512/4KN 7200 No. 2/6",
+      "category": "ACCESSORIES",
+      "brand": "SEAGATE",
+      "serial": "-",
+      "purchaseDate": "2024-03-14",
+      "price": 11200,
+      "warrantyExpiry": "2456-06-30",
+      "id": "gm6wx5oy",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240314-048",
+      "name": "SEAGATE EXNOS 7E10 IntHDD 3.5 nich 10TB 512/4KN 7200 No. 3/6",
+      "category": "ACCESSORIES",
+      "brand": "SEAGATE",
+      "serial": "-",
+      "purchaseDate": "2024-03-14",
+      "price": 11200,
+      "warrantyExpiry": "2456-06-30",
+      "id": "76xzduft",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240314-049",
+      "name": "SEAGATE EXNOS 7E10 IntHDD 3.5 nich 10TB 512/4KN 7200 No. 4/6",
+      "category": "ACCESSORIES",
+      "brand": "SEAGATE",
+      "serial": "-",
+      "purchaseDate": "2024-03-14",
+      "price": 11200,
+      "warrantyExpiry": "2456-06-30",
+      "id": "me933an3",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240314-050",
+      "name": "SEAGATE EXNOS 7E10 IntHDD 3.5 nich 10TB 512/4KN 7200 No. 5/6",
+      "category": "ACCESSORIES",
+      "brand": "SEAGATE",
+      "serial": "-",
+      "purchaseDate": "2024-03-14",
+      "price": 11200,
+      "warrantyExpiry": "2456-06-30",
+      "id": "t7f9oox9",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20240314-051",
+      "name": "SEAGATE EXNOS 7E10 IntHDD 3.5 nich 10TB 512/4KN 7200 No. 6/6",
+      "category": "ACCESSORIES",
+      "brand": "SEAGATE",
+      "serial": "-",
+      "purchaseDate": "2024-03-14",
+      "price": 11200,
+      "warrantyExpiry": "2456-06-30",
+      "id": "3akunwjy",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260715-070",
+      "name": "Lenovo Think Centre Neo 50a 24 Gen5",
+      "category": "DESKTOP",
+      "brand": "Lenovo",
+      "serial": "MP304ABW",
+      "purchaseDate": "2026-07-15",
+      "price": 22500,
+      "warrantyExpiry": "2029-03-14",
+      "id": "n48o7m3o",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260821-073",
+      "name": "Lenovo ThinkBook 16 G9 IRL - Type 21US",
+      "category": "LAPTOP",
+      "brand": "Lenovo",
+      "serial": "PW0Q0NDN",
+      "purchaseDate": "2026-08-24",
+      "price": 28500,
+      "warrantyExpiry": "2027-05-17",
+      "id": "3c18m5c7",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260820-071",
+      "name": "Lenovo ThinkCentre Neo 50a 24 Gen 5 Desktop - Type 12SC",
+      "category": "DESKTOP",
+      "brand": "Lenovo",
+      "serial": "MP304A8E",
+      "purchaseDate": "2026-08-25",
+      "price": 22500,
+      "warrantyExpiry": "2029-03-14",
+      "id": "02tnxxfh",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260827-074",
+      "name": "Lenovo ThinkBook 16 G9 IRL - Type 21US",
+      "category": "LAPTOP",
+      "brand": "Lenovo",
+      "serial": "PW0Q0LXB",
+      "purchaseDate": "2026-08-24",
+      "price": 28500,
+      "warrantyExpiry": "2027-05-17",
+      "id": "3ouuf4n9",
+      "status": "available"
+    },
+    {
+      "tag": "CO-20260821-072",
+      "name": "Lenovo ThinkCentre Neo 50a 24 Gen 5 Desktop - Type 12SC",
+      "category": "DESKTOP",
+      "brand": "Lenovo",
+      "serial": "MP304A86",
+      "purchaseDate": "2026-08-25",
+      "price": 22500,
+      "warrantyExpiry": "2029-03-14",
+      "id": "1ryf2sq0",
+      "status": "available"
+    },
+    {
+      "tag": "N/A",
+      "name": "Lenovo ThinkBook 16 G9 IRL - Type 21US",
+      "category": "LAPTOP",
+      "brand": "Lenovo",
+      "serial": "PW0Q0NCC",
+      "purchaseDate": "2026-10-06",
+      "price": 28500,
+      "warrantyExpiry": "2027-05-06",
+      "id": "zbqmcgaq",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20230327-001",
+      "name": "Microsoft Office Lenovo",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2023-03-27",
+      "price": 8401.87,
+      "warrantyExpiry": "2456-03-27",
+      "id": "mx6ljcly",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20230327-002",
+      "name": "Windows 11Pro Lenovo",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2023-03-27",
+      "price": 6719.63,
+      "warrantyExpiry": "2456-03-28",
+      "id": "7taaxi0b",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20231027-003",
+      "name": "Access Point-Firewall-BackupAntiVirus-ITMS",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2023-10-27",
+      "price": 155590,
+      "warrantyExpiry": "2456-03-29",
+      "id": "v14e4t2t",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240110-004",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-01-10",
+      "price": 7841.12,
+      "warrantyExpiry": "2456-03-30",
+      "id": "r194d6vp",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240110-005",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-01-10",
+      "price": 7841.12,
+      "warrantyExpiry": "2456-03-31",
+      "id": "d90nno6w",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240110-006",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-01-10",
+      "price": 7841.12,
+      "warrantyExpiry": "2456-04-01",
+      "id": "h90j9vlr",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240110-007",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-01-10",
+      "price": 7841.12,
+      "warrantyExpiry": "2456-04-02",
+      "id": "1u6gnnwi",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240119-008",
+      "name": "Payroll Program 6 language Business plus HRM",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2024-01-19",
+      "price": 59000,
+      "warrantyExpiry": "2456-04-03",
+      "id": "xpem05jh",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240124-009",
+      "name": "Mcframe GA Accounting Program - ERP",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2024-01-24",
+      "price": 1992000,
+      "warrantyExpiry": "2456-04-04",
+      "id": "a3hiz9te",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240405-010",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-04-05",
+      "price": 7841.12,
+      "warrantyExpiry": "2456-04-05",
+      "id": "1h5ldlzx",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240405-011",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-04-05",
+      "price": 7841.12,
+      "warrantyExpiry": "2456-04-06",
+      "id": "kdxsqk9v",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240525-012",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-05-25",
+      "price": 7560.75,
+      "warrantyExpiry": "2456-04-07",
+      "id": "dx8zspaq",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240525-013",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-05-25",
+      "price": 7560.75,
+      "warrantyExpiry": "2456-04-08",
+      "id": "7wu2npid",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240525-014",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-05-25",
+      "price": 7560.75,
+      "warrantyExpiry": "2456-04-09",
+      "id": "dmi08czw",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240525-015",
+      "name": "Software MS-Office Home & Business 2021",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-05-25",
+      "price": 7560.75,
+      "warrantyExpiry": "2456-04-10",
+      "id": "mj0sj4x3",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-016",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-11",
+      "id": "h44pd2nl",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-017",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-12",
+      "id": "nv3j03ae",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-018",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-13",
+      "id": "f0arvj7b",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-019",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-14",
+      "id": "xcri0c6a",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-020",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-15",
+      "id": "yuxzrrfi",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-021",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-16",
+      "id": "0da9x9b5",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-022",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-17",
+      "id": "31e3pewz",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-023",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-18",
+      "id": "ck79n873",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-024",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-19",
+      "id": "h5qrzgel",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-025",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-20",
+      "id": "v45g0dsc",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-026",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-21",
+      "id": "bh0voayy",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-027",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-22",
+      "id": "s4jqpj3b",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-028",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-23",
+      "id": "6742k2fk",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-029",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-24",
+      "id": "kmqb3eqb",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-030",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-25",
+      "id": "j9b479kb",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-031",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-26",
+      "id": "11whqfa7",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-032",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-27",
+      "id": "bgjae2w5",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-033",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-28",
+      "id": "bh5f94u8",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-034",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-29",
+      "id": "vbzrb0cd",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-035",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-04-30",
+      "id": "us7qgpi1",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-036",
+      "name": "Software MS-Office Home & Business 2021 (ESD)",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-01",
+      "id": "ed39bf5v",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20240820-037",
+      "name": "Software ZWCAD 2025 Mechanical (Serial-Standalone)",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2024-08-20",
+      "price": 43000,
+      "warrantyExpiry": "2456-05-02",
+      "id": "cgjyi814",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241125-038",
+      "name": "Microsoft Office Home & Business 2021 No.1",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-11-25",
+      "price": 7000,
+      "warrantyExpiry": "2456-05-03",
+      "id": "c2nwmanz",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241125-039",
+      "name": "Microsoft Office Home & Business 2021 No.2",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-11-25",
+      "price": 7000,
+      "warrantyExpiry": "2456-05-04",
+      "id": "9jl4y5ta",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241125-040",
+      "name": "Microsoft Office Home & Business 2021 No.3",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-11-25",
+      "price": 7000,
+      "warrantyExpiry": "2456-05-05",
+      "id": "60scuwis",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241126-041",
+      "name": "Software MS-Office Home & Business 2021 No.1",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-11-26",
+      "price": 7000,
+      "warrantyExpiry": "2456-05-06",
+      "id": "i19hxw4s",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241126-042",
+      "name": "Software MS-Office Home & Business 2021 No.2",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-11-26",
+      "price": 7000,
+      "warrantyExpiry": "2456-05-07",
+      "id": "g98gn919",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241210-043",
+      "name": "Microsoft 2021 Home and Business (ESD) No.1",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-12-10",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-08",
+      "id": "jd5bq60q",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241210-044",
+      "name": "Microsoft 2021 Home and Business (ESD) No.2",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-12-10",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-09",
+      "id": "z00gtwo4",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241210-045",
+      "name": "Microsoft 2021 Home and Business (ESD) No.3",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-12-10",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-10",
+      "id": "zlrvkcnd",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241210-046",
+      "name": "Microsoft 2021 Home and Business (ESD) No.4",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-12-10",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-11",
+      "id": "uccumsvi",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20241210-047",
+      "name": "Microsoft 2021 Home and Business (ESD) No.5",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2024-12-10",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-12",
+      "id": "4ayiewly",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250101-054",
+      "name": "MC Frame License for Accounting - Kenny",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-01-01",
+      "price": 49500,
+      "warrantyExpiry": "2456-05-13",
+      "id": "qgv5gsfh",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250317-048",
+      "name": "Microsoft 2024 Home and Business (ESD) No.1/2",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-03-17",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-14",
+      "id": "2z7g774g",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250317-049",
+      "name": "Microsoft 2024 Home and Business (ESD) No.2/2",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-03-17",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-15",
+      "id": "zwj734yi",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250403-050",
+      "name": "MC Frame License for Accounting - Ploy",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-04-03",
+      "price": 47900,
+      "warrantyExpiry": "2456-05-16",
+      "id": "fyirpy7k",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250416-051",
+      "name": "Microsoft Office 2024 No.1",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-04-16",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-17",
+      "id": "s664oi8r",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250416-052",
+      "name": "Microsoft Office 2024 No.2",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-04-16",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-18",
+      "id": "ph2sq2q2",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250416-053",
+      "name": "Microsoft Office 2024 EP2-06604",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-04-16",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-19",
+      "id": "vv2gl18p",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250502-062",
+      "name": "TASCO ERP",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-02",
+      "price": 350000,
+      "warrantyExpiry": "2456-05-20",
+      "id": "542aoj82",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250514-055",
+      "name": "Microsoft 2024 Home and Business (ESD) No.1/7",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-14",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-21",
+      "id": "lqr5xfv2",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250514-056",
+      "name": "Microsoft 2024 Home and Business (ESD) No.2/7",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-14",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-22",
+      "id": "lzzxkmp7",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250514-057",
+      "name": "Microsoft 2024 Home and Business (ESD) No.3/7",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-14",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-23",
+      "id": "rg2cab5v",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250514-058",
+      "name": "Microsoft 2024 Home and Business (ESD) No.4/7",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-14",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-24",
+      "id": "7vij28i5",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250514-059",
+      "name": "Microsoft 2024 Home and Business (ESD) No.5/7",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-14",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-25",
+      "id": "i0msdohj",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250514-060",
+      "name": "Microsoft 2024 Home and Business (ESD) No.6/7",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-14",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-26",
+      "id": "2txakd0g",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250514-061",
+      "name": "Microsoft 2024 Home and Business (ESD) No.7/7",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2025-05-14",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-27",
+      "id": "azrg57kw",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250606-063",
+      "name": "Customized Label Printing Software (Weight Scale)",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-06-06",
+      "price": 95000,
+      "warrantyExpiry": "2456-05-28",
+      "id": "czqsq3im",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20250708-064",
+      "name": "MC Frame License for Sale Department - 1 User",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-07-08",
+      "price": 45000,
+      "warrantyExpiry": "2456-05-29",
+      "id": "amc670hy",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20251022-065",
+      "name": "Microsoft Office 2024 Home - Business (ESD)",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-10-22",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-30",
+      "id": "z4cttde5",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20251022-066",
+      "name": "Microsoft Office 2024 Home - Business (ESD)",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-10-22",
+      "price": 5800,
+      "warrantyExpiry": "2456-05-31",
+      "id": "15dsdtdk",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20251201-067",
+      "name": "SEISAN SYSTEM (MNZATERT)",
+      "category": "SOFTWARE",
+      "brand": "",
+      "serial": "N/A",
+      "purchaseDate": "2025-12-01",
+      "price": 1253010,
+      "warrantyExpiry": "2456-06-01",
+      "id": "n4gkz0zx",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260119-068",
+      "name": "Microsoft 2024 Home and Business (ESD) EP2-06604",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-01-19",
+      "price": 5800,
+      "warrantyExpiry": "2456-06-02",
+      "id": "1ul0fgx9",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260402-069",
+      "name": "Microsoft 2024 Home and Business (ESD) EP2-06604",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-04-02",
+      "price": 5800,
+      "warrantyExpiry": "2456-06-03",
+      "id": "u2s1wtze",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260402-070",
+      "name": "Microsoft 2024 Home and Business (ESD) EP2-06604",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-04-02",
+      "price": 5800,
+      "warrantyExpiry": "2456-06-04",
+      "id": "96m9amov",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260715-071",
+      "name": "Microsoft 2024 Home and Business (ESD) EP2-06604 (SALE) /CO-20260715-070",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-07-15",
+      "price": 10200,
+      "warrantyExpiry": "2456-06-05",
+      "id": "30v6tnsc",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260811-072",
+      "name": "MC Frame License for Sale Department (1 User) No.2",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-08-11",
+      "price": 45000,
+      "warrantyExpiry": "2456-06-06",
+      "id": "ws6dx73j",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260820-073",
+      "name": "Microsoft Office 2024 Home - Business (ESD) & Microsoft Windows 11 (OEM) / CO-20260820-071",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-08-20",
+      "price": 11100,
+      "warrantyExpiry": "2456-06-07",
+      "id": "4em33vdh",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260821-074",
+      "name": "Microsoft Office 2024 Home - Business (ESD) & Microsoft Windows 11 (OEM) / CO-20260820-072",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-08-21",
+      "price": 11100,
+      "warrantyExpiry": "2456-06-08",
+      "id": "bu57q60a",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260821-075",
+      "name": "Microsoft Office 2024 Home - Business (ESD) / CO-20260820-073",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-08-21",
+      "price": 6500,
+      "warrantyExpiry": "2456-06-09",
+      "id": "my0z529n",
+      "status": "available"
+    },
+    {
+      "tag": "SO-20260827-076",
+      "name": "Microsoft Office 2024 Home - Business (ESD) / CO-20260827-074",
+      "category": "SOFTWARE",
+      "brand": "Microsoft",
+      "serial": "N/A",
+      "purchaseDate": "2026-08-27",
+      "price": 6500,
+      "warrantyExpiry": "2456-06-10",
+      "id": "ehtliklw",
+      "status": "available"
+    }
+  ],
+  "history": [
+    {
+      "id": "h1",
+      "assetId": "a1",
+      "type": "register",
+      "date": "2025-03-10",
+      "note": "ลงทะเบียนครั้งแรก"
+    },
+    {
+      "id": "h2",
+      "assetId": "a1",
+      "type": "handover",
+      "date": "2025-03-12",
+      "person": "สมชาย ใจดี",
+      "note": "ฝ่ายบัญชี"
+    },
+    {
+      "id": "h3",
+      "assetId": "a2",
+      "type": "register",
+      "date": "2025-03-10",
+      "note": "ลงทะเบียนครั้งแรก"
+    },
+    {
+      "id": "09pvxrgd",
+      "assetId": "4ng69r80",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "ywxtf7kd",
+      "assetId": "sp9ts4vm",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "daur3zhw",
+      "assetId": "4tn9ch8x",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "1weyqib6",
+      "assetId": "f5quf5tv",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "rwhonvzi",
+      "assetId": "dyjc7g0o",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "i5gpsnk4",
+      "assetId": "it8hp6de",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "v06wk3st",
+      "assetId": "0zo68yxr",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "cf93axgh",
+      "assetId": "oap1u8w9",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "eunjmxgt",
+      "assetId": "8izg3wgs",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "5kyr35a4",
+      "assetId": "oa4v1qi2",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "7osnitzt",
+      "assetId": "aipyavey",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "h1nfqp7z",
+      "assetId": "49xserip",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "nbhwfizp",
+      "assetId": "0notlehg",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "x36ntc2p",
+      "assetId": "xkctxwpf",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "cwxl1py3",
+      "assetId": "79eark4v",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "27cilisr",
+      "assetId": "j6fete0d",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "v6l00001",
+      "assetId": "p7gv0ly6",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "r46fhup2",
+      "assetId": "68v37dal",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "xsm8hs93",
+      "assetId": "718yqvq4",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "d7qkx9iz",
+      "assetId": "l3sodm4p",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "1omhbjh7",
+      "assetId": "cevgcr48",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "ytkz5i9x",
+      "assetId": "p4rw8qns",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "e77mdoyf",
+      "assetId": "0j22di97",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "plhaki4i",
+      "assetId": "siciq1dt",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "m5o6v7b4",
+      "assetId": "d0usi7dh",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "zcy8hhdt",
+      "assetId": "wzhnzynr",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "xdwxnya4",
+      "assetId": "bxuohfjx",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "uevamgit",
+      "assetId": "kro64kww",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "w6zxznhz",
+      "assetId": "nao1gshu",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "5x8dgwh7",
+      "assetId": "pi8kdt4r",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "irh2d9o3",
+      "assetId": "8i05bld7",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "a48g1mpt",
+      "assetId": "oojzj85i",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "rzgnjuwj",
+      "assetId": "2alldw8x",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "net4i9ka",
+      "assetId": "yo7els7j",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "osy20ud4",
+      "assetId": "m5czijto",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "o0e60zqd",
+      "assetId": "3m6l5q0r",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "mesbfyik",
+      "assetId": "j4e3cuci",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "m1xuhdi0",
+      "assetId": "18e086hg",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "6ra265m8",
+      "assetId": "v57eec4h",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "wue7dptl",
+      "assetId": "1l3z6kp4",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "jbwzperc",
+      "assetId": "p81ev3mm",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "jjr39a2s",
+      "assetId": "6963u1p9",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "uevuvzfw",
+      "assetId": "md2guzgr",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "45pngma7",
+      "assetId": "z2k0zrdp",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "2pjsioge",
+      "assetId": "2rsfnqfl",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "vtrewjk3",
+      "assetId": "prwvi75m",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "g5e7c70v",
+      "assetId": "lx99ug17",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "4dor9qx4",
+      "assetId": "5fmxb5k8",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "6t09ul7d",
+      "assetId": "cn70kul2",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "gbk4puwh",
+      "assetId": "qpx7dxxf",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "whogo7kp",
+      "assetId": "d84skw78",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "sy7g82is",
+      "assetId": "a92dnujl",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "k1wi2bws",
+      "assetId": "wg9gxqyf",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "qx6qlryo",
+      "assetId": "21ttg9hp",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "hv845gdx",
+      "assetId": "w3fnchpb",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "5xfivo2r",
+      "assetId": "ms6lbwo5",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "y7z8ksji",
+      "assetId": "wx95fpv5",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "aholdx2n",
+      "assetId": "i8spep0f",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "65x54565",
+      "assetId": "0f60y9m6",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "hgovyq7x",
+      "assetId": "re4he8lu",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "phgwx24u",
+      "assetId": "eleutfoq",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "wk3bwc0c",
+      "assetId": "u2lq9azg",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "bu63hbrf",
+      "assetId": "2ye6eu08",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "8tgqb5v7",
+      "assetId": "b0i49007",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "q8k4pp93",
+      "assetId": "mms6uebt",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "68epjabx",
+      "assetId": "q0qvq4ze",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "2i4fl2nx",
+      "assetId": "bui3axvb",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "gavdp2bc",
+      "assetId": "aejvov8q",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "4u8xqhkn",
+      "assetId": "bup3ield",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "xyzjixzc",
+      "assetId": "0sk4fy66",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "ruswx9np",
+      "assetId": "o9leayu6",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "2pfkp1se",
+      "assetId": "71d9yu7u",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "t3l0z16d",
+      "assetId": "sblkq94c",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "yz07q5ov",
+      "assetId": "zq04994f",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "n6mkzfp0",
+      "assetId": "gm6wx5oy",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "vfo6llgj",
+      "assetId": "76xzduft",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "arwpe5v2",
+      "assetId": "me933an3",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "fwe1dwxp",
+      "assetId": "t7f9oox9",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "0cbgvsbg",
+      "assetId": "3akunwjy",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "1kiojqt9",
+      "assetId": "n48o7m3o",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "efo62z6s",
+      "assetId": "3c18m5c7",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "i5sl26ek",
+      "assetId": "02tnxxfh",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "f7eezmuv",
+      "assetId": "3ouuf4n9",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "t05vlg1z",
+      "assetId": "1ryf2sq0",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "0nebl96u",
+      "assetId": "zbqmcgaq",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "bdxmlf32",
+      "assetId": "mx6ljcly",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "megq1y3g",
+      "assetId": "7taaxi0b",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "547d1ikt",
+      "assetId": "v14e4t2t",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "mo0rny1c",
+      "assetId": "r194d6vp",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "axw6mt2c",
+      "assetId": "d90nno6w",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "qxhrcqxr",
+      "assetId": "h90j9vlr",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "lu9kue1p",
+      "assetId": "1u6gnnwi",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "0oscr860",
+      "assetId": "xpem05jh",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "pyg3j30o",
+      "assetId": "a3hiz9te",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "ts9s5b66",
+      "assetId": "1h5ldlzx",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "gomkw8j5",
+      "assetId": "kdxsqk9v",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "r9m0kkp8",
+      "assetId": "dx8zspaq",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "zptxrzwf",
+      "assetId": "7wu2npid",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "mhfbiptp",
+      "assetId": "dmi08czw",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "oeg1dt3z",
+      "assetId": "mj0sj4x3",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "wy5xnjl2",
+      "assetId": "h44pd2nl",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "rirqm7jz",
+      "assetId": "nv3j03ae",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "u0ic1jdx",
+      "assetId": "f0arvj7b",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "gsp9t3ks",
+      "assetId": "xcri0c6a",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "eznyrts8",
+      "assetId": "yuxzrrfi",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "fvo26jfj",
+      "assetId": "0da9x9b5",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "f6rnc2mf",
+      "assetId": "31e3pewz",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "mnjmh7wp",
+      "assetId": "ck79n873",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "nksh3vfx",
+      "assetId": "h5qrzgel",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "5ygab1fz",
+      "assetId": "v45g0dsc",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "sl1zs77j",
+      "assetId": "bh0voayy",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "u0zr1d9r",
+      "assetId": "s4jqpj3b",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "yvequcyn",
+      "assetId": "6742k2fk",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "jag3tkgk",
+      "assetId": "kmqb3eqb",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "qp7mtkbg",
+      "assetId": "j9b479kb",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "cioq690s",
+      "assetId": "11whqfa7",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "swrhkoro",
+      "assetId": "bgjae2w5",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "nlu8g9td",
+      "assetId": "bh5f94u8",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "o8vsqmpk",
+      "assetId": "vbzrb0cd",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "471ke7yr",
+      "assetId": "us7qgpi1",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "jyam685w",
+      "assetId": "ed39bf5v",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "hrz0scu4",
+      "assetId": "cgjyi814",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "sbaqgu6n",
+      "assetId": "c2nwmanz",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "5dovsawy",
+      "assetId": "9jl4y5ta",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "iba485tq",
+      "assetId": "60scuwis",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "1n44ulmt",
+      "assetId": "i19hxw4s",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "um59esoj",
+      "assetId": "g98gn919",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "0d6500v6",
+      "assetId": "jd5bq60q",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "a2co4ixx",
+      "assetId": "z00gtwo4",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "0h101r1i",
+      "assetId": "zlrvkcnd",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "k8x3x1zx",
+      "assetId": "uccumsvi",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "r8b599g6",
+      "assetId": "4ayiewly",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "i6xibbpd",
+      "assetId": "qgv5gsfh",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "702mdsd9",
+      "assetId": "2z7g774g",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "a35ynds6",
+      "assetId": "zwj734yi",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "owjjuunx",
+      "assetId": "fyirpy7k",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "etksvzta",
+      "assetId": "s664oi8r",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "di8yjh9z",
+      "assetId": "ph2sq2q2",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "qythwane",
+      "assetId": "vv2gl18p",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "idwllgsd",
+      "assetId": "542aoj82",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "nxn157yd",
+      "assetId": "lqr5xfv2",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "ibd7f7lm",
+      "assetId": "lzzxkmp7",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "ju42lepf",
+      "assetId": "rg2cab5v",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "y7yn1ai4",
+      "assetId": "7vij28i5",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "r58sny56",
+      "assetId": "i0msdohj",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "36ap1fqi",
+      "assetId": "2txakd0g",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "c4eq5uib",
+      "assetId": "azrg57kw",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "3k5qflu1",
+      "assetId": "czqsq3im",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "i1413tpm",
+      "assetId": "amc670hy",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "wh1pokt7",
+      "assetId": "z4cttde5",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "252bxlfn",
+      "assetId": "15dsdtdk",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "w213ay8w",
+      "assetId": "n4gkz0zx",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "4dilh0s1",
+      "assetId": "1ul0fgx9",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "d1sj31py",
+      "assetId": "u2s1wtze",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "cuy5ahqg",
+      "assetId": "96m9amov",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "vi087h0g",
+      "assetId": "30v6tnsc",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "l2u7a19g",
+      "assetId": "ws6dx73j",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "p9xgn2mc",
+      "assetId": "4em33vdh",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "fh6lmuiz",
+      "assetId": "bu57q60a",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "mxzuc867",
+      "assetId": "my0z529n",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    },
+    {
+      "id": "an34bgpr",
+      "assetId": "ehtliklw",
+      "type": "register",
+      "date": "2026-10-09",
+      "note": "นำเข้าจากไฟล์ CSV"
+    }
+  ]
+}
